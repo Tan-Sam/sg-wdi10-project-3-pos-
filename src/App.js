@@ -14,6 +14,8 @@ class App extends Component {
           Test git between Ubunutu & MAC works.
           Works - Test by Mervyn.
           Kenny - Tested - OK!
+          Retest with git-clone -Kent
+        
         </p>
       </div>
     );
