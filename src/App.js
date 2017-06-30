@@ -12,6 +12,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           Test git between Ubunutu & MAC works.
+          Works - Test by Mervyn.
         </p>
       </div>
     );
